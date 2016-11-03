@@ -5,7 +5,7 @@
 ### V0.3 Usa command line arguments 
 ### V0.4 Agregue HELP!!!!!
 ### V0.5 MEGA OPCIONES y cambios internos ( FULLINFO, INFO y ADD )
-### V0.6 Se cambia tipo de DS fieldname default GAUGE
+### V0.6 Se cambia tipo de DS fieldname default GAUGE.
 #
 use strict;
 use warnings;
