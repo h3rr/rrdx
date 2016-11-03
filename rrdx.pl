@@ -63,7 +63,7 @@ exit 0;
 
 sub prginfo{
 	print("RRDx 0.5  Copyright 2016 by Hernan Lucero
-\nUsage: rrdx [options] file.rrd ds_fielnumber\n
+\nUsage: rrdx [options] file.rrd ds_fieldnumber\n
 Valid options: add, fullinfo, info\n 
 \nRRDx is distributed under the Terms of the GNU General
 Public License Version 2. (www.gnu.org/copyleft/gpl.html)\n\n");
